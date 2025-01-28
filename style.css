@@ -59,9 +59,10 @@ Box
     margin-top: 40px ;
     width: 600px;
     height: 800px;
-   background-color: #FFFFFF;
+    background-color: #FFFFFF;
     display: block;
     border-radius: 2px;
+    padding-left: 50px;
 }
 
 .button-one {
