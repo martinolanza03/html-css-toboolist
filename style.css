@@ -60,6 +60,9 @@ body {
 .text-task {
     font-weight: bold;
 }
+p {
+    margin-bottom: 10px;
+}
  /********
 Box
 ********/
