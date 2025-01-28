@@ -37,3 +37,12 @@ Display
 .display-in-block{
     display: inline-block;
 }
+
+ /********
+Display
+********/
+
+.container{
+    max-width: 100%;
+    margin 0 auto;
+}
