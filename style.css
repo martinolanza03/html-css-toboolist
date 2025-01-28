@@ -91,12 +91,22 @@ Box
     margin-bottom: 2px;
 }
 
-.circle {
+.circle-check {
     border: 1px solid #42ccb4;
     width: 20px;
     height: 20px;
     border-radius: 50%;
     color: #42ccb4;
+    text-align: center ;
+    font-size: 15px;
+}
+
+.circle-cross {
+    border: 1px solid #ff4242 ;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    color: #ff4242;
     text-align: center ;
     font-size: 15px;
 }
