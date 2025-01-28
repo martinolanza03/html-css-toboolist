@@ -50,7 +50,12 @@ Contenuti
 body {
     background-color: #f6f8f9;
 }
-
+.task{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-weight: bold;
+    font-size: 20px;
+}
  /********
 Box
 ********/
@@ -84,4 +89,14 @@ Box
     border-radius: 10px;
     background-color: #FFFFFF;
     margin-bottom: 2px;
+}
+
+.circle {
+    border: 1px solid #42ccb4;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    color: #42ccb4;
+    text-align: center ;
+    font-size: 15px;
 }
