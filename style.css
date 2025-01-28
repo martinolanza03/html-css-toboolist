@@ -43,10 +43,9 @@ Contenuti
 ********/
 
 .container{
-    max-width: 20%;
+    max-width: 70%;
     margin: 0 auto;
 }
-
 
 body {
     background-color: #f6f8f9;
@@ -57,10 +56,12 @@ Box
 ********/
 
 .box {
+    margin-top: 40px ;
     width: 600px;
     height: 800px;
    background-color: #FFFFFF;
     display: block;
+    border-radius: 2px;
 }
 
 .button-one {
@@ -81,4 +82,5 @@ Box
     font-weight: bold;
     border-radius: 10px;
     background-color: #FFFFFF;
+    margin-bottom: 2px;
 }
