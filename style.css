@@ -39,10 +39,21 @@ Display
 }
 
  /********
-Display
+Contenuti
 ********/
 
 .container{
-    max-width: 100%;
-    margin 0 auto;
+    max-width: 20%;
+    margin: 0 auto;
+}
+
+.box {
+    width: 600px;
+    height: 800px;
+   background-color: #FFFFFF;
+    display: block;
+}
+
+body{
+    background-color: #f6f8f9;
 }
