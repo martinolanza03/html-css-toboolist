@@ -16,7 +16,7 @@ Header
 header {
     background-color: #FFFFFF ;
     height: 70px;
-    
+    margin-bottom: 40px;
 }
 
 #logo {
@@ -43,8 +43,13 @@ Contenuti
 ********/
 
 .container{
-    max-width: 70%;
     margin: 0 auto;
+    width: 600px;
+    height: 800px;
+    background-color: #FFFFFF;
+    display: block;
+    border-radius: 2px;
+    padding-left: 50px;
 }
 
 body {
@@ -66,16 +71,6 @@ p {
  /********
 Box
 ********/
-
-.box {
-    margin-top: 40px ;
-    width: 600px;
-    height: 800px;
-    background-color: #FFFFFF;
-    display: block;
-    border-radius: 2px;
-    padding-left: 50px;
-}
 
 .button-one {
     width: 70px;
