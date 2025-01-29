@@ -117,15 +117,12 @@ Box
 }
 
 .box-task {
-    width: 70px;
-    height: 25px;
     border: 0;
     font-size: 10px;
     font-weight: bold;
     border-radius: 10px;
     color: #FFFFFF ;
     box-sizing: border-box;
-    padding-left: 10px ;
-    padding-top: 7px;
+    padding: 5px 10px ;
     vertical-align: middle;
 }
