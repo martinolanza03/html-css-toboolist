@@ -50,6 +50,7 @@ Contenuti
     display: block;
     border-radius: 2px;
     padding-left: 50px;
+    padding-top: 12px;
 }
 
 body {
@@ -90,7 +91,6 @@ Box
     font-weight: bold;
     border-radius: 10px;
     background-color: #FFFFFF;
-    margin-bottom: 2px;
 }
 
 .circle-check {
